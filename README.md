@@ -19,7 +19,8 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
 - [Aprender Código Morse](#aprender-código-morse)
 - [Cozinha](#cozinha)
 - [Ebooks, livros e revistas académicas](#ebooks-livros-e-revistas-académicas)
-- [Design](#design)
+- [Fitness](#Fitness)
+- [Aprender a desenhar](#aprender-a-desenhar)
 - [Referências](#referências)
 
 
@@ -76,7 +77,7 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
  ## Computadores e Programação
 - [Carl H Programming](http://www.highercomputingforeveryone.com/) 
 - [The New Boston](https://pt-br.classpert.com/) 
-- [Learn about Linux](Learn about Linux) 
+- [Learn about Linux](https://www.udemy.com/course/red-hat-enterprise-linux-technical-overview/?LSNPUBID=JVFxdTr9V80&ranEAID=JVFxdTr9V80&ranMID=39197&ranSiteID=JVFxdTr9V80-YWB3bHQ1JgvElSXSpLOpUw) 
 - [Free Technology Academy](http://ftacademy.org/) 
 - [University of Washington CSE](https://www.cs.washington.edu/education/courses)
 - [http://www.lynda.com/](Lynda.com) 
@@ -141,6 +142,19 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
 - [Cite Seer](http://citeseerx.ist.psu.edu/)
 - [The Assayer](http://theassayer.org/) Grande coleção de livros disponibilizados pelos autores
 
+ ## Fitness
+- [Bodyweight Fitness](https://old.reddit.com/r/bodyweightfitness/wiki/kb/recommended_routine) Trabalho de força apenas com o peso do próprio corpo
+- [Bodyweight Fitness 2](http://www.startbodyweight.com/p/start-bodyweight-basic-routine.html)
+- [BodyWeight Fitness 3](https://old.reddit.com/r/bodyweightfitness/wiki/move)
+- [Bodyweight Fitness 4](https://old.reddit.com/r/bodyweightfitness/wiki/kb/skillday)
+- [Dumbbell Routines](http://old.reddit.com/r/Fitness/comments/zc0uy/a_beginner_dumbbell_program_the_dumbbell_stopgap/) Treino com halteres
+- [Dumbbell Routines 2](http://old.reddit.com/r/Fitness/comments/2e79y4/dumbbell_ppl_proposed_alternative_to_dumbbell/)
+- [Dumbbell Routines 3](https://www.muscleandstrength.com/workouts/frankoman-dumbbell-only-split.html)
+- [Dumbbell Routines 4](https://forum.bodybuilding.com/showthread.php?p=1266579671#post1266579671)
+- [HIIT](https://www.bodybuilding.com/content/ultimate-8-week-hiit-for-fat-burning-program.html)Treino Intervalo de Alta Intensidade
+
+ ## Aprender a Desenhar
+ - [Draw a Box](https://drawabox.com/)
 
  ## Referências
  - https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy/
