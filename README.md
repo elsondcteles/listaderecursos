@@ -104,6 +104,7 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
 
  ## Aprender Línguas
 - [Duolingo](https://www.duolingo.com/) Plataforma para aprender várias línguas (disponível em app)
+- [ESCOLA VIRTUAL LGP](http://www.lgpescolavirtual.pt/) Escola Virtual de Linguagem Gestual
 - [ReadLang](http://readlang.com/) Extensão do Chrome de tradução
 - [MemRise](https://www.memrise.com/)
 - [Lingvist](https://lingvist.io/) 
