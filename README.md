@@ -22,6 +22,7 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
 - [Fitness](#Fitness)
 - [Desenho](#desenho)
 - [Canto](#canto)
+- [OrigamiCanto](#origami)
 - [Referências](#referências)
 
 
@@ -171,7 +172,14 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
   - [https://www.ob1.co.uk/sovtbook.html](https://www.ob1.co.uk/sovtbook.html) Exercícios vocais
   - [reddit/r/singing](https://www.reddit.com/r/singing/wiki/index) Informação e dicas sobre canto
   
- 
+## Origami
+  - [OrigamiUSA](http://origamiusa.org/)
+  - [Giladorigami](http://giladorigami.com/)
+  - [Origami Resource Center](http://origamiusa.org/)
+  - [Happy Folding](http://happyfolding.com/)
+  - [Robert Origami](http://langorigami.com/)
+  - [Origami](http://www.origami.org/)
+
    
    
    
