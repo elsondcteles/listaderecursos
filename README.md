@@ -1,6 +1,6 @@
 # Lista de Recursos Gratuitos - Online [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referentes ao COVID-19, agreguei um conjunto de recursos digitais que estão disponíveis, de forma gratuita, para todos. Optei, igualmente, por adicionar um marcador referente ao COVID-19, para que as pessoas possam estar informadas através dos diversos canais de informação fidedignos.
+No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referentes ao COVID-19, compilei um conjunto de recursos digitais gratuitos que estão disponíveis na internet para todos. Optei, igualmente, por adicionar um marcador referente ao COVID-19, para que as pessoas possam estar informadas através dos diversos canais de informação fidedignos.
 
 > AVISO LEGAL: Não possuo qualquer tipo de ligação com nenhum dos websites apresentados. A maioria dos mesmos encontrei na plataforma online REDDIT, apenas limitei-me a compilar, pelo que as devidas referências encontram-se no fundo da página. 
 
