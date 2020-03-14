@@ -23,7 +23,6 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
 - [Desenho](#desenho)
 - [Canto](#canto)
 - [Origami](#origami)
-- [Costura](#costura)
 - [Referências](#referências)
 
 
@@ -181,14 +180,8 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
   - [Robert Origami](http://langorigami.com/)
   - [Origami](http://www.origami.org/)
   
-  ## Costura
-  - [Learn to Sew Blog](http://www.doinaalexei.com/bestsewingtutorialblog/category/sewing)
-  - [Craftsy](https://www.craftsy.com/)
-  - [Colette Patterns](https://www.colettepatterns.com/)
-  - [Learn to sew Box](http://www.doinaalexei.com/easywaytolearnhowtosewadress.html)
 
-   
-   
+
    
  ## Referências
  - https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy/
