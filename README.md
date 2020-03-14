@@ -20,13 +20,16 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
 - [Cozinha](#cozinha)
 - [Ebooks, livros e revistas académicas](#ebooks-livros-e-revistas-académicas)
 - [Fitness](#Fitness)
-- [Aprender a desenhar](#aprender-a-desenhar)
+- [Desenho](#desenho)
 - [Referências](#referências)
 
 
 
    
  ## Escolas, Universidades e Formações
+ - [Escola Virtual](https://www.escolavirtual.pt/) Acesso a aulas e a materiai para os alunos de todos os anos de escolaridade
+ - [Leya Digital](https://auladigital.leya.com) Acesso a aulas e a materiai para os alunos de todos os anos de escolaridade
+  - [Apoio Escolar Online]( http://www.apoioescolaronline.net/) Apoio grátis para os alunos da RAM do 7° ao 12°.
 - [NAU - Sempre a Aprender](https://lms.nau.edu.pt/) Infraestrutura técnica de publicação e serviços de acompanhamento de cursos
 - [Massive Open Online Courses](https://www.mooc.org/) Cursos abertos oferecidos por meio de ambientes virtuais de aprendizagem
 - [Coursera](https://www.coursera.org/) Empresa de tecnologia educacional norte-americana
@@ -154,7 +157,7 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
 - [Dumbbell Routines 4](https://forum.bodybuilding.com/showthread.php?p=1266579671#post1266579671)
 - [HIIT](https://www.bodybuilding.com/content/ultimate-8-week-hiit-for-fat-burning-program.html)Treino Intervalo de Alta Intensidade
 
- ## Aprender a Desenhar
+ ## Desenho
  - [Draw a Box](https://drawabox.com/)
 
  ## Referências
