@@ -22,7 +22,7 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
 - [Fitness](#Fitness)
 - [Desenho](#desenho)
 - [Canto](#canto)
-- [OrigamiCanto](#origami)
+- [Origami](#origami)
 - [Referências](#referências)
 
 
