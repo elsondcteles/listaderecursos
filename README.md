@@ -21,6 +21,7 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
 - [Ebooks, livros e revistas académicas](#ebooks-livros-e-revistas-académicas)
 - [Fitness](#Fitness)
 - [Desenho](#desenho)
+- [Canto](#canto)
 - [Referências](#referências)
 
 
@@ -159,7 +160,21 @@ No âmbito das novas diretrizes de segurança, de isolamento/quarentena, referen
 
  ## Desenho
  - [Draw a Box](https://drawabox.com/)
-
+ 
+  ## Canto
+  - [Filipe Carvalho](https://www.youtube.com/user/shoyoninja/videos)
+  - [Daniel Formica](https://www.youtube.com/user/danformica/videos)
+  - [Bohemian Vocal Studio](https://www.youtube.com/channel/UCIy2BNY25kkBI3qBBlFrWlg/videos)
+  - [Phil Moufarrege](https://www.youtube.com/user/philmoufarrege/videos)
+  - [Mark Baxter](https://www.youtube.com/user/voicelessondotcom/videos)
+  - [Michael Trimble](https://www.youtube.com/user/Tenoretrimble/videos)
+  - [https://www.ob1.co.uk/sovtbook.html](https://www.ob1.co.uk/sovtbook.html) Exercícios vocais
+  - [reddit/r/singing](https://www.reddit.com/r/singing/wiki/index) Informação e dicas sobre canto
+  
+ 
+   
+   
+   
  ## Referências
  - https://www.reddit.com/r/AskReddit/comments/4q91g9/what_free_things_online_should_everyone_take/d4r8foy/
 -  https://www.reddit.com/r/AskReddit/comments/7kj86s/what_are_some_free_education_websites_that_more/
